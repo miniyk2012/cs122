@@ -1,7 +1,7 @@
 # cs122
 网易云课堂: https://mooc.study.163.com/learn/1000103000#/learn/announce
 
-实验楼: https://www.lanqiao.cn/courses/122/learning/?id=386
+实验楼: https://www.lanqiao.cn/courses/122/learning/?id=386 微信或手机验证码登陆
 
 ## lab2
 1. 编写menu.c脚本
