@@ -1,0 +1,1 @@
+C与指针答案: https://www.cnblogs.com/monster-prince/default.html?page=2
