@@ -4,29 +4,9 @@
 实验楼: https://www.lanqiao.cn/courses/122/learning/?id=386 微信或手机验证码登陆
 
 
-## lab1
-```
-# 编译
-gcc -o hello hello.c
-# 执行
-./hello
-# 打包, 一般不包含可执行文件, 先rm hello
-tar -zcvf yk_lab1.tar.gz ./*
-# 解包
-tar -xzvf yk_lab1.tar.gz 
-```
+# homework
+1. [lab1: 写一个hello world小程序](assets/lab1.md)
+2. [lab2: 命令行菜单小程序V1.0](assets/lab2.md)
+3. [lab3: 内部模块化的命令行菜单小程序V2.0](assets/lab3.md)
 
-## lab2
-1. 编写menu.c脚本
-    1. 实现了8个命令: quit triangle rectangle randomnumber newline randomchar line sleep
-    2. help: 可以查看8个命令
-    3. triangle: 画三角形
-    4. rectangle: 画矩形
-    5. randomnumber: 输出随机数字
-    6. newline: 输出空行
-    7. randomchar: 输出随机字符
-    8. line: 画一条线
-    9. sleep: 睡眠效果
-2. gcc menu.c -o menu
-3. ./menu
- 
+
